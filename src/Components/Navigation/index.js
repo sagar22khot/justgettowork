@@ -24,7 +24,7 @@ export class Navigation extends Component {
             <NavText>Scheduler</NavText>
          </NavItems>
          <NavItems>
-            <NavText>Login</NavText>
+            <NavText to="/login">Login</NavText>
          </NavItems>
        </NavWrapper>
       </Container>
