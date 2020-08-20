@@ -5,7 +5,7 @@
   "dependencies": {
     "animate.css": "^3.7.2",
     "axios": "^0.19.2",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "browser-image-compression": "^1.0.6",
     "core-util-is": "^1.0.2",
     "font-awesome": "^4.7.0",
